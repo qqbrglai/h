@@ -1,0 +1,4 @@
+#! bin/bash
+echo "what's  your  name ?"
+read enter_u
+echo -e "\n you name is " $enter_u
